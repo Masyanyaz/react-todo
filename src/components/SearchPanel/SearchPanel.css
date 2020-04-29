@@ -1,0 +1,15 @@
+.search-panel {
+  margin-bottom: .5rem;
+  display: flex;
+}
+
+.search-panel .form-control {
+  margin-right: .5rem;
+}
+
+@media (max-width: 600px) {
+  .search-panel {
+    flex-direction: column-reverse;
+  }
+}
+

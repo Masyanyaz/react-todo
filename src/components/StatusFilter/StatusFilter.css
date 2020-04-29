@@ -1,0 +1,15 @@
+.status-filter .btn {
+  white-space: nowrap;
+}
+
+@media (max-width: 600px) {
+  .status-filter {
+    margin-bottom: .5rem;
+  }
+}
+
+@media (max-width: 460px) {
+  .status-filter .btn {
+    white-space: unset;
+  }
+}

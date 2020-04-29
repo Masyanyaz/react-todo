@@ -1,0 +1,8 @@
+.add-form {
+  display: flex;
+  margin-top: .5rem;
+}
+
+.add-form .form-control {
+  margin-right: .5rem;
+}
